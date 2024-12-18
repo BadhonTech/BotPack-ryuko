@@ -1,5 +1,12 @@
 ## ABOUT ME
 
+name : ```BADHON BISWAS```</br>
+age : ```17```</br>
+city : ```Dhaka,Bangladesh```</br>
+website : [Badhon Tech](https://badhontech.vercel.app)</br>
+
+## ABOUT Ryuko
+
 name : ```Ryuko Developer```</br>
 age : ```18```</br>
 link : [facebook](https://www.facebook.com/ryukodev).</br>
