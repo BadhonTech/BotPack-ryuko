@@ -15,6 +15,7 @@ link : [facebook](https://www.facebook.com/ryukodev).</br>
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
 modified : [ryuko](https://replit.com/@ryukodev/ryuko?v=1) by ```Ryuko Developer```</br>
+remodified : [Badhon](https://badhontech.vercel.app) by ```Ryuko Developer```</br>
 fca : [ws3-fca](https://www.npmjs.com/package/ws3-fca) by ```Kenneth Aceberos```
 
 ## UPDATES
